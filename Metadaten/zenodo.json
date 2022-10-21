@@ -1,0 +1,85 @@
+{
+	"title": "COVID-SARI-Hospitalisierungsinzidenz",
+	"description": "Zur Einschätzung der Krankheitslast schwerer symptomatischer Atemwegsinfektionen im stationären Bereich wird mithilfe von Daten aus der syndromischen Krankenhaussurveillance ICOSARI die Inzidenz der Fälle, die mit einer schweren akuten respiratorischen Infektion (SARI) und einer COVID-19-Diagnose  in ein  Krankenhaus zur Behandlung aufgenommen wurden, pro 100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von SARI mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.",
+	"upload_type": "dataset",
+	"access_right": "open",
+	"license": "cc-by",
+	"language": "deu",
+	"communities": [{
+		"identifier": "robertkochinstitut"
+	}],
+	"creators": [{
+			"name": "Tolksdorf, Kristin",
+			"orcid": "0000-0002-8712-6399",
+			"affiliation": "Robert Koch-Institut"
+		},
+		{
+			"name": "Goerlitz, Luise",
+			"affiliation": "Robert Koch-Institut"
+		},
+		{
+			"name": "Haas, Walter",
+			"orcid": "0000-0003-3413-1431",
+			"affiliation": "Robert Koch-Institut"
+		},
+		{
+			"name": "Buda, Silke",
+			"orcid": "0000-0003-3448-3357",
+			"affiliation": "Robert Koch-Institut"
+		}
+	],
+	"keywords": [
+		"SARS-CoV-2",
+		"COVID-19",
+		"Schweres akutes respiratorisches Syndrom",
+		"Severe Acute Respiratory Syndrome",
+		"SARI",
+		"Patient Admission",
+		"Patientenaufnahme",
+		"Respiratory Tract Infections",
+		"Atemwegsinfektionen",
+		"Sekundäre Versorgung",
+		"Secondary Care",
+		"Syndromische Surveillance",
+		"Sentinel Surveillance",
+		"Hospitalisierungsinzidenz",
+		"Hospitalization",
+		"Hospitalisierung",
+		"Incidence",
+		"Inzidenz",
+		"ICOSARI",
+		"Deutschland",
+		"Germany",
+		"RKI",
+		"Open Data"
+	],
+	"subjects": [{
+			"term": "Gesundheitsberichterstattung",
+			"identifier": "info:ddc/22/de//614.42"
+		},
+		{
+			"term": "Epidemiologie",
+			"identifier": "info:ddc/22/de//614.4"
+		},
+		{
+			"term": "Public health surveillance",
+			"identifier": "info:ddc/22/eng//614.42"
+		},
+		{
+			"term": "Epidemiology",
+			"identifier": "info:ddc/22/eng//614.4"
+		}
+	],
+	"publication_date": "2022-10-20T14:36:10+02:00",
+	"version": "2022-10-20",
+	"dates": [{
+		"start": "2020-03-02",
+		"end": "2022-10-20",
+		"type": "Collected"
+	}],
+	"related_identifiers": [{
+		"relation": "isSupplementTo",
+		"identifier": "https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz",
+		"resource_type": "dataset"
+	}]
+}
