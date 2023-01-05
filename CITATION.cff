@@ -3,7 +3,7 @@ type: dataset
 title: COVID-SARI-Hospitalisierungsinzidenz
 abstract: >-
   Zur Einschätzung der Krankheitslast schwerer symptomatischer Atemwegsinfektionen im stationären Bereich wird mithilfe von Daten aus der syndromischen Krankenhaussurveillance ICOSARI die Inzidenz der Fälle, die mit einer schweren akuten respiratorischen Infektion (SARI) und einer COVID-19-Diagnose  in ein  Krankenhaus zur Behandlung aufgenommen wurden, pro 100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von SARI mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.
-date-released: '2022-10-27'
+date-released: '2022-01-01'
 keywords:
   - SARS-CoV-2
   - COVID-19

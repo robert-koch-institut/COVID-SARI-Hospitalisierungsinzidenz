@@ -5,12 +5,12 @@ Datensatzdokumentation
 Nordufer 20  
 13353 Berlin  
 
- [Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), Luise Goerlitz,  [Walter Haas](https://orcid.org/0000-0003-3413-1431) und [Silke Buda](https://orcid.org/0000-0003-3448-3357)  
+[Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), Luise Goerlitz,  [Walter Haas](https://orcid.org/0000-0003-3413-1431) und [Silke Buda](https://orcid.org/0000-0003-3448-3357)  
 Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen
 
 ---
 
-Tolksdorf K, Goerlitz L, Haas W und Buda S (2022): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI: [10.5281/zenodo.7491788](https://doi.org/10.5281/zenodo.7491788)
+Tolksdorf K, Goerlitz L, Haas W und Buda S (2023): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI: [10.5281/zenodo.7491788](https://doi.org/10.5281/zenodo.7491788)
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
