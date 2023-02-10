@@ -1,7 +1,7 @@
 Datensatzdokumentation  
 # COVID-SARI-Hospitalisierungsinzidenz  
 
-[Robert Koch-Institute | RKI](https://ror.org/01k5qnb77)  
+[Robert Koch-Institute | RKI](https://www.wikidata.org/wiki/Q679041)  
 Nordufer 20  
 13353 Berlin  
 
@@ -9,7 +9,7 @@ Nordufer 20
 Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen
 
 ---
-
+**Zitieren**  
 Tolksdorf K, Goerlitz L, Haas W und Buda S (2023): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI: [10.5281/zenodo.7624725](https://doi.org/10.5281/zenodo.7624725)
 
 
@@ -86,6 +86,7 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 | Variable | Typ | Ausprägung | Beschreibung |
 | --- | --- | --- | --- |
 |date|Datum|jjjj-Www|Berichtswoche des RKI im IS0-8601 Format|
+|agegroup| Text | `60-79`, `80+`,`00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
 |icosari_covid19_incidence|Rationale Zahl||Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19|
 
 #### Formatierung der Daten 
