@@ -10,7 +10,7 @@ Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen
 
 ---
 **Zitieren**  
-Tolksdorf K, Goerlitz L, Haas W und Buda S (2023): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI: [10.5281/zenodo.7785107](https://doi.org/10.5281/zenodo.7785107)
+Tolksdorf K, Goerlitz L, Haas W und Buda S (2023): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI: [10.5281/zenodo.7804974](https://doi.org/10.5281/zenodo.7804974)
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
