@@ -2,8 +2,15 @@ cff-version: 1.2.0
 type: dataset
 title: COVID-SARI-Hospitalisierungsinzidenz
 abstract: >-
-  Zur Einschätzung der Krankheitslast schwerer symptomatischer Atemwegsinfektionen im stationären Bereich wird mithilfe von Daten aus der syndromischen Krankenhaussurveillance ICOSARI die Inzidenz der Fälle, die mit einer schweren akuten respiratorischen Infektion (SARI) und einer COVID-19-Diagnose  in ein  Krankenhaus zur Behandlung aufgenommen wurden, pro 100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von SARI mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.
-date-released: '2022-01-01'
+  Zur Einschätzung der Krankheitslast schwerer symptomatischer
+  Atemwegsinfektionen im stationären Bereich wird mithilfe von Daten aus der
+  syndromischen Krankenhaussurveillance ICOSARI die Inzidenz der Fälle, die mit
+  einer schweren akuten respiratorischen Infektion (SARI) und einer
+  COVID-19-Diagnose  in ein  Krankenhaus zur Behandlung aufgenommen wurden, pro
+  100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von
+  SARI mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen
+  Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.
+date-released: '2023-04-13'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -28,22 +35,27 @@ keywords:
   - Germany
   - RKI
   - Open Data
+  - Gesundheitsberichterstattung
+  - Epidemiologie
+  - Public health surveillance
+  - Epidemiology
 message: Cite me!
+url: https://robert-koch-institut.github.io/COVID-SARI-Hospitalisierungsinzidenz/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.7804974
+doi: 10.5281/zenodo.7825201
 authors:
   - family-names: Tolksdorf
     given-names: Kristin
-    orcid: https://orcid.org/0000-0002-8712-6399
     affiliation: Robert Koch-Institut
+    orcid: 0000-0002-8712-6399
   - family-names: Goerlitz
     given-names: Luise
     affiliation: Robert Koch-Institut
   - family-names: Haas
     given-names: Walter
-    orcid: https://orcid.org/0000-0003-3413-1431
     affiliation: Robert Koch-Institut
+    orcid: 0000-0003-3413-1431
   - family-names: Buda
     given-names: Silke
-    orcid: https://orcid.org/0000-0003-3448-3357
     affiliation: Robert Koch-Institut
+    orcid: 0000-0003-3448-3357
