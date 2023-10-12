@@ -10,41 +10,44 @@ Nordufer 20
 
 ---
 **Zitieren**  
-Tolksdorf K, Goerlitz L, Haas W und Buda S (2023): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.8409468](https://doi.org/10.5281/zenodo.8409468)
+Tolksdorf K, Goerlitz L, Haas W und Buda S (2023): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.8435968](https://doi.org/10.5281/zenodo.8435968)
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
 
-Zur Einschätzung der Krankheitslast schwerer symptomatischer Atemwegsinfektionen im stationären Bereich wird mithilfe von Daten aus der syndromischen Krankenhaussurveillance ICOSARI die Inzidenz der Fälle, die mit einer schweren akuten respiratorischen Infektion (SARI) und einer COVID-19-Diagnose  in ein  Krankenhaus zur Behandlung aufgenommen wurden, pro 100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von SARI mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.
+Zur Einschätzung der Krankheitslast schwerer symptomatischer Atemwegsinfektionen im stationären Bereich wird mithilfe von Daten aus der syndromischen Krankenhaussurveillance ICOSARI die Inzidenz der Fälle, die mit einer schweren akuten respiratorischen Infektion (SARI) und einer COVID-19-Diagnose in ein Krankenhaus zur Behandlung aufgenommen wurden, pro 100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von SARI mit COVID-19 im zeitlichen Verlauf sind essenziell für die Einschätzung der epidemiologischen Lage und die Entwicklung und Anpassung von Präventionsstrategien auch nach dem Ende der COVID-19-Pandemie.   
 
 ### Administrative und organisatorische Angaben  
 
-Im Datensatz "COVID-SARI-Hospitalisierungsinzidenz" wird die wöchentliche Inzidenz der Hospitalisierungen wegen einer neu aufgetretenen schweren Atemwegsinfektion (SARI) mit COVID-19 pro 100.000 Einwohnerinnen und Einwohner bereitgestellt.
+Die zugrunde liegenden Daten werden im Rahmen einer wissenschaftlichen Kooperation vom Datenzentrum der HELIOS Kliniken GmbH dem Robert Koch-Institut (RKI) zur Verfügung gestellt. Die Konzeptionierung der Datennutzung, das Datenmanagement, die Validierung und Analyse der Daten im Rahmen der SARI-Surveillance sowie die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI.  
 
-Die zugrundeliegenden Daten werden vom Datenzentrum der HELIOS Kliniken GmbH an das Robert Koch-Institut (RKI) durch das übermittelt. Das Datenzentrum erhält die Daten von den teilnehmenden Krankenhäusern. der. Die Konzeptionierung der Datenerhebung, das Datenmanagement, die weitere Validierung der Daten und die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html) des RKI.
-
-Die Veröffentlichung der validierten und aufbereiteten Daten, die Kuration sowie das Qualitätsmanagement der Meta-Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html). Fragen zum Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).  
+Die Veröffentlichung Analyseergebnisee, die Kuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MF/MF4/mf4_node.html). Fragen zum Meta-Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).
 
 ### Entstehungskontext  
 
-Die syndromische Surveillance schwerer akuter respiratorischer Infektionen (SARI) informiert über die aktuelle Krankheitsschwere und -häufigkeit. Dafür werden zeitnah erregerübergreifend akute Atemwegsinfektionen anhand von Symptomen bzw. den entsprechenden ärztlichen Diagnosen direkt an das RKI berichtet. Die syndromische Surveillance beruht auf systematisch und strukturiert erfassten Daten aus einer Stichprobe z.B. aus Krankenhäusern (Sentinel).
+Die ganzjährige syndromische Surveillance schwerer akuter respiratorischer Infektionen (SARI) informiert über die aktuelle Krankheitsschwere und -häufigkeit. In Deutschland erfolgt die syndromische Surveillance schwerer akuter respiratorischer Erkrankungen im stationären Bereich durch die syndromische Krankenhaussurveillance ICOSARI (ICD-10-Code basierte Krankenhaussurveillance schwerer akuter respiratorischer Infektionen) des Robert Koch-Instituts (RKI). Diese basiert auf fallbasierten anonymisierten DRG-Datensätzen aus Sentinel-Krankenhäusern.
 
-In Deutschland erfolgt die syndromische Surveillance schwerer akuter respiratorischer Erkrankungen im stationären Bereich durch die syndromische Krankenhaussurveillance ICOSARI (ICD-10-Code basierte Krankenhaussurveillance schwerer akuter respiratorischer Infektionen) des Robert Koch-Instituts (RKI). Diese basiert auf fallbasierten anonymisierten DRG-Datensätzen aus Sentinel-Krankenhäusern.  
+Die Ergebnisse tragen zum Verständnis der Epidemiologie der Influenza, COVID-19, RSV-Infektionen und von weiteren akuten respiratorischen Erkrankungen sowie zur Entwicklung von Präventionsstrategien bei. Eine kontinuierliche SARI-Surveillance im stationären Bereich wird vom [ECDC](https://www.ecdc.europa.eu/en/publications-data/operational-considerations-respiratory-virus-surveillance-europe) und der [WHO](https://www.who.int/initiatives/mosaic-respiratory-surveillance-framework) empfohlen. 
 
 ### Datenerhebung  
 
-Derzeit werden Daten aus aktuell ca. 70 Sentinelkliniken mit einer bundesweiten Abdeckung von 5-6 % aller in Deutschland hospitalisierten Patient:innen erhoben. In den teilnehmenden Krankenhäusern werden fallbezogene Daten über aufgenommene Patient:innen routinemäßig erfasst. Die Daten aus diesen Krankenhäusern werden zentral im Datenzentrum im Rahmen des Qualitätsmanagements validiert. Von dort aus werden anonymisierte validierte fallbezogene Datensätze von neu im Krankenhaus aufgenommenen Patient:innen an das Robert Koch-Institut übermittelt [(Buda et al., 2017)](https://doi.org/10.1186/s12889-017-4515-1).
-
-Die übermittelten Daten teilen sich in zwei Datensätze auf: Der erste Datensatz (Datensatz 1) beschreibt die Gesamtzahl der Krankenhausaufenthalte innerhalb der meldenden Sentinel-Standorte und enthält Aufnahme- und Entlassungsdatum, Alter (in Jahren), Geschlecht und die ersten beiden Ziffern der 5-stelligen Postleitzahl eines jeden stationären Krankenhausaufenthalts. Dieser Datensatz enthält auch Informationen über die Dauer des Krankenhausaufenthalts, die Dauer des Aufenthalts auf der Intensivstation und die Art der Entlassung. Der zweite Datensatz (Datensatz 2) beschreibt die Untergruppe der Patient:innen, bei denen als Haupt- oder Nebendiagnose ein beliebiger ICD-10-Diagnosecode aus [Kapitel X (Krankheiten des Atmungssystems J00 - J99)](https://www.icd-code.de/icd/code/J00-J99.html) angegeben ist. Dieser zweite Datensatz enthält zusätzlich auch Informationen über die Einweisungsdiagnose, die primäre und alle sekundären Entlassungsdiagnosen, die Dauer der Beatmung, die ersten drei Ziffern der 5-stelligen Postleitzahl der Patient:in und die Hauptabteilung im Krankenhaus, in der die Patient:in behandelt wurde. 
+Derzeit werden Daten aus aktuell ca. 70 Sentinelkliniken mit einer bundesweiten Abdeckung von 5-6 % aller in Deutschland hospitalisiertern Patient:innen und Patienten erhoben. In den teilnehmenden Krankenhäusern werden fallbezogene Daten über aufgenommene Patientinnen und Patienten routinemäßig erfasst. Die Daten aus diesen Krankenhäusern werden zentral im Datenzentrum im Rahmen des Qualitätsmanagements validiert. Von dort aus werden anonymisierte validierte, anonymisierte, fallbezogene Datensätze von neu im Krankenhaus aufgenommenen Patient:innen und Patienten an das Robert Koch-InstitutRKI übermittelt ([Establishing an ICD-10 code based SARI-surveillance in Germany – description of the system and first results from five recent influenza seasons](https://doi.org/10.1186/s12889-017-4515-1)).   
 
 ### Datenauswertung und -aufbereitung  
 
-Zur Einschätzung der Krankheitslast schwerer symptomatischer Erkrankungen im stationären Bereich wird mithilfe der Daten aus dem ICOSARI-Sentinel wöchentlich die Inzidenz der Fälle berechnet, die mit einer schweren akuten Atemwegserkrankung und COVID-19 im Krankenhaus behandelt wurden (COVID-SARI-Hospitalisierungsinzidenz).   
+Zur Einschätzung der Krankheitslast schwerer symptomatischer Erkrankungen im stationären Bereich wird mithilfe der Daten aus dem ICOSARI-Sentinel wöchentlich die Inzidenz der Fälle berechnet, die in ein Krankenhaus aufgenommen wurden und dort die Diagnose einer schweren akuten Atemwegserkrankung sowie eine Diagnose von COVID-19 erhalten haben (COVID-SARI-Hospitalisierungsinzidenz).  
 
-Hierbei werden neu im Krankenhaus aufgenommene Patient:innen erfasst, die einen ICD-10-Code für SARI (ICD-10-Codes J09 bis J22) in der DRG-Haupt- oder Nebendiagnose sowie eine COVID-19-Diagnose (U07.1) erhalten haben, einschließlich noch hospitalisierter Personen.  
-Die Berechnung der wöchentlichen COVID-SARI-Hospitalisierungsinzidenz erfolgt wie von [Tolksdorf et al. (2022)](https://doi.org/10.1101/2022.02.11.22269594) beschrieben. 
+#### COVID-SARI-Falldefinition 
 
-Detaillierte Informationen zu Datenerhebung und Auswertung lassen sich folgenden Publikationen entnehmen:
+Der hier zur Verfügung gestellte Datensatz enthält die Werte der wöchentlichen Hospitalisierungsinzidenz von Patientinnen und Patienten mit einem ICD-10-Diagnosecode für eine SARI (J09 bis J22, Diagnose-Codes für akute Infektionen der unteren Atemwege) sowie einem ICD-10-Diagnosecode für eine COVID-19-Erkrankung (U07.1).
+
+- SARI-Diagnose als Hauptdiagnose UND eine COVID-19 Diagnose
+
+##### Änderung der Falldefinition zum 12.10.2023  
+
+Zum 12.10.2023 wurde die Falldefinition der COVID-SARI-Hospitalisierungsinzidenz geändert. Die Datenreihen gemäß der vorherigen Falldefinition (SARI in der Haupt- oder einer der Nebendiagnosen UND  Diagnose einer laborbestätigten COVID-19 Erkrankung) stehen weiterhin zum Download zur Verfügung (DOI: [10.5281/zenodo.8435968](https://doi.org/10.5281/zenodo.8435968)), werden aber seit dem 12.10.2023 nicht fortgeführt. Weitere Informationen finden sich in den [Hinweisen zur Anpassung der Falldefinition](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Kontextmaterialien/2023-10-09_Hinweis_Anpassung_Falldefinition.pdf).  
+
+Die Berechnung der wöchentlichen SARI-Hospitalisierungsinzidenz erfolgte wie von [Tolksdorf et al. (2022)](https://doi.org/10.1101/2022.02.11.22269594) beschrieben. Detaillierte Informationen zu Datenerhebung und Auswertung lassen sich folgenden Publikationen entnehmen:
 
 > Tolksdorf K, Haas W, Schuler E, Wieler LH, Schilling J, Hamouda O, Diercke M, Buda S (2022): Syndromic surveillance for severe acute respiratory infections (SARI) enables valid estimation of COVID-19 hospitalization incidence and reveals underreporting of hospitalizations during pandemic peaks of three COVID-19 waves in Germany, 2020-2021 DOI: [10.1101/2022.02.11.22269594](https://doi.org/10.1101/2022.02.11.22269594)
 
@@ -57,11 +60,11 @@ Detaillierte Informationen zu Datenerhebung und Auswertung lassen sich folgenden
 
 #### Limitationen und Einordnung des Datensatzes  
 
-Die Daten haben zwar eine eingeschränkte geografische Auflösung, sie erlauben jedoch robuste Aussagen zur Krankheitslast schwerer akuter Atemwegserkrankungen mit COVID-19. 
+Die Daten haben zwar eine eingeschränkte geografische Auflösung, sie erlauben jedoch bundesweit robuste Aussagen zur Krankheitslast schwerer akuter Atemwegserkrankungen mit COVID-19.
 
 ## Aufbau und Inhalt des Datensatzes  
 
-Der Datensatz enthält die wöchentliche COVID-SARI-Hospitalisierungsinzidenz erhoben aus dem ICOSARI-Sentinel. Im Datensatz enthalten sind:
+Der Datensatz enthält die wöchentlichen Werte der COVID-SARI-Hospitalisierungsinzidenz, die im Rahmen der syndromischen SARI-Surveillance im  erhoben aus dem ICOSARI-Sentinel des RKI berechnet wurde. Im Datensatz enthalten sind:
 
 - wöchentliche Hospitalisierungsinzidenz von schweren akuten respiratorischen Erkrankungen mit zusätzlicher COVID-19-Diagnose pro 100.000 Einwohner in Deutschland  
 - Lizenz-Datei mit der Nutzungslizenz des Datensatzes in Deutsch und Englisch  
@@ -73,10 +76,9 @@ Der Datensatz enthält die wöchentliche COVID-SARI-Hospitalisierungsinzidenz er
 
 Die Daten der Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19 sind nach folgenden Merkmalen differenziert:
 
-- Berichtswoche des RKI  
-- wöchentliche Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19  
+- Kalderwoche
 
-Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgewertet. Das bedeutet, dass alle bis dahin an das RKI übermittelten Daten einfließen. Die Daten sind bundesweit wöchentlich verfügbar und können durch Nachmeldungen noch ergänzt werden.  
+Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgewertet. Das bedeutet, dass alle bis dahin am RKI validierten Daten einfließen. Die Daten sind bundesweit wöchentlich verfügbar und können durch Nachmeldungen noch ergänzt werden. 
 
 > [COVID-SARI-Hospitalisierungsinzidenz.csv](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/COVID-SARI-Hospitalisierungsinzidenz.csv)
 
@@ -85,24 +87,24 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 
 | Variable | Typ | Ausprägung | Beschreibung |
 | --- | --- | --- | --- |
-|date|Datum|`jjjj-Www`|Berichtswoche des RKI im IS0-8601 Format|
+|date|Datum|`jjjj-Www`| Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format|
 |agegroup| Text | `60-79`, `80+`,`00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
-|icosari_covid19_incidence|Rationale Zahl||Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19|
+|sari_covid19_incidence|Rationale Zahl|`>0`|Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19|
 
-#### Formatierung der Daten 
+#### Formatierung  
 
-Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der .csv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma ",".
+Die Daten sind im Datensatz als tabseparierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t".  
 
-- Zeichensatz: UTF-8
-- .csv Trennzeichen: Komma ","
+- Zeichensatz: UTF-8  
+- TSV-Trennzeichen: Tab "\t"  
 
-### Metadaten
+### Metadaten  
 
-Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadaten-Ordner hinterlegt:
+Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten beschrieben. Über GitHub Actions werden Metadaten an die entsprechenden Plattformen verteilt. Für jede Plattform existiert eine spezifische Metadatendatei, diese sind im Metadatenordner hinterlegt:  
 
-> [Metadaten/](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/) 
+> [Metadaten/](https://github.com/robert-koch-institut/SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/)  
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](http://Zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.   
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/representation nachlesbar.   
 
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/zenodo.json)  
 
@@ -118,8 +120,17 @@ In der zenodo.json ist neben der Publikationsdatum (`"publication_date"`) auch d
   ],
 ```    
 
-### Lizenz
+## Hinweise zur Nachnutzung der Daten  
 
-Der Datensatz "COVID-SARI-Hospitalisierungsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License |](https://creativecommons.org/licenses/by/4.0/deed.de) <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">CC-BY 4.0 International</a>
+Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede:r hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/LIZENZ) Datei des Datensatzes.
+- https://zenodo.org/communities/robertkochinstitut
+- https://github.com/robert-koch-institut
+- https://gitlab.opencode.de/robert-koch-institut
+- https://edoc.rki.de/
+
+### Lizenz  
+
+Der Datensatz "SARI-Hospitalisierungsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY ](https://creativecommons.org/licenses/by/4.0/deed.de).  
+
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/LIZENZ) Datei des Datensatzes.
