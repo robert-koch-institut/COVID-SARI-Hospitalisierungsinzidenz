@@ -80,7 +80,7 @@ Die Daten der Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrank
 
 Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgewertet. Das bedeutet, dass alle bis dahin am RKI validierten Daten einfließen. Die Daten sind bundesweit wöchentlich verfügbar und können durch Nachmeldungen noch ergänzt werden. 
 
-> [COVID-SARI-Hospitalisierungsinzidenz.csv](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/COVID-SARI-Hospitalisierungsinzidenz.csv)
+> [COVID-SARI-Hospitalisierungsinzidenz.csv](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/COVID-SARI-Hospitalisierungsinzidenz.tsv)
 
 #### Variablen und Variablenausprägungen
 
