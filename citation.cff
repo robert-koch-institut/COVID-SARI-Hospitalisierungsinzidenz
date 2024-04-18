@@ -10,7 +10,7 @@ abstract: >-
   100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von
   SARI mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen
   Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.
-date-released: '2024-04-11'
+date-released: '2024-04-18'
 keywords:
   - SARS-CoV-2
   - COVID-19
@@ -42,8 +42,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-SARI-Hospitalisierungsinzidenz/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.10958420
-version: '2024-04-11T09:06:25+02:00'
+doi: 10.5281/zenodo.10990421
+version: '2024-04-18T09:06:36+02:00'
 authors:
   - family-names: Tolksdorf
     given-names: Kristin
@@ -52,6 +52,10 @@ authors:
   - family-names: Goerlitz
     given-names: Luise
     affiliation: Robert Koch-Institut
+  - family-names: Gvaladze
+    given-names: Tamar
+    affiliation: Robert Koch-Institut
+    orcid: 0009-0007-4442-9633
   - family-names: Haas
     given-names: Walter
     affiliation: Robert Koch-Institut
