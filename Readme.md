@@ -1,16 +1,20 @@
 Datensatzdokumentation  
 # COVID-SARI-Hospitalisierungsinzidenz  
 
-[Robert Koch-Institute | RKI](https://rki.de)  
+[Robert Koch-Institut | RKI](Https://rki.de)  
 Nordufer 20  
 13353 Berlin  
+ 
+<br>
+  
+[**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Tamar Gvaladze**](https://orcid.org/0009-0007-4442-9633)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1; und [**Silke Buda**](https://orcid.org/0000-0003-3448-3357&sup1;)  
 
-[Kristin Tolksdorf](https://orcid.org/0000-0002-8712-6399), [Luise Goerlitz](https://orcid.org/0009-0004-3024-6797),[Tamar Gvaladze](https://orcid.org/0009-0007-4442-9633), [Walter Haas](https://orcid.org/0000-0003-3413-1431) und [Silke Buda](https://orcid.org/0000-0003-3448-3357)  
-[**Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen**](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)
+&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG36/FG36_node.html)   
 
 ---
+
 **Zitieren**  
-Tolksdorf K, Goerlitz L, Gvaladze T, Haas W und Buda S (2024): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.12720532](https://doi.org/10.5281/zenodo.12720532)
+Tolksdorf K, Goerlitz L, Gvaladze T, Haas W und Buda S (**2024**): COVID-SARI-Hospitalisierungsinzidenz, Berlin:Zenodo. DOI:[10.5281/zenodo.12770820](https://doi.org/10.5281/zenodo.12770820)
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
