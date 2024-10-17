@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Einstellung des Datensatzes COVID-SARI-Hospitalisierungsinzidenz**
+>
+>Am 10.10.2024 gab es eine Umstellung im Datensatz der SARI-Hospitalisierungsinzidenz, der erweitert und zukünftig zusätzlich die SARI-Hospitalisierungsinzidenzen für COVID-19, Influenza und RSV Erkrankungen enthalten wird. 
+>Mit der Umstellung wird der Datensatz zur COVID-SARI-Hospitalisierungsinzidenz nicht weiter fortgeführt, da seine Daten vollständig in den Daten der SARI-Hospitalisierungsinzidenz enthalten sein werden:
+> - https://doi.org/10.5281/zenodo.13943918
+> - https://github.com/robert-koch-institut/SARI-Hospitalisierungsinzidenz/
+---------
+
 Datensatzdokumentation  
 # COVID-SARI-Hospitalisierungsinzidenz  
 
