@@ -7,25 +7,49 @@
 > - https://github.com/robert-koch-institut/SARI-Hospitalisierungsinzidenz/
 ---------
 
-Datensatzdokumentation  
-# COVID-SARI-Hospitalisierungsinzidenz  
+<!-- HEADER_START: {"lang": "de"} -->
 
-[Robert Koch-Institut | RKI](Https://rki.de)  
-Nordufer 20  
-13353 Berlin  
- 
-<br>
-  
-[**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Tamar Gvaladze**](https://orcid.org/0009-0007-4442-9633)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1; und [**Silke Buda**](https://orcid.org/0000-0003-3448-3357&sup1;)  
 
-&emsp;&sup1; [Robert Koch-Institut | Fachgebiet 36](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html)   
+Dokumentation  
+# COVID-SARI-Hospitalisierungsinzidenz
 
----
+<br> 
+<br> 
+<br> 
+
+[**Kristin Tolksdorf**](https://orcid.org/0000-0002-8712-6399)&sup1;, [**Luise Goerlitz**](https://orcid.org/0009-0004-3024-6797)&sup1;, [**Tamar Gvaladze**](https://orcid.org/0009-0007-4442-9633)&sup1;, [**Walter Haas**](https://orcid.org/0000-0003-3413-1431)&sup1;, & [**Silke Buda**](https://orcid.org/0000-0003-3448-3357)&sup1;
+
+<br> 
+
+
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 36](https://www.rki.de/fg36)
+
+<br> 
 
 **Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
 Tolksdorf, K., Goerlitz, L., Gvaladze, T., Haas, W., & Buda, S. (2024). COVID-SARI-Hospitalisierungsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.13943810](https://doi.org/10.5281/zenodo.13943810)
-<!-- CITATION_END -->
+
+<br>
+
+
+**Zusammenfassung**    
+Im Datensatz "COVID-SARI-Hospitalisierungsinzidenz" des Robert Koch-Instituts werden die wöchentlichen Inzidenzen schwerer akuter respiratorischer Infektionen (SARI) mit zusätzlicher COVID-19-Diagnose bei Krankenhausaufnahmen auf Bundesebene in Deutschland bereitgestellt. Die Daten stammen aus der syndromischen Krankenhaussurveillance ICOSARI, die sich auf ICD-10-basierten Diagnosen aus etwa 70 Sentinelkliniken stützt. Der Datensatz umfasst Hospitalisierungsinzidenzen pro 100.000 Einwohner, aufgeschlüsselt nach Altersgruppen, Saison und Kalenderwoche. Seit dem 10.10.2024 sind die Daten der COVID-SARI-Hospitalisierungsinzidenz vollständig in den Daten der SARI-Hospitalisierungsinzidenz enthalten: https://doi.org/10.5281/zenodo.8382330
+
+<br>
+
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
+
 
 
 ## Informationen zum Datensatz und Entstehungskontext  
@@ -34,9 +58,9 @@ Zur Einschätzung der Krankheitslast schwerer symptomatischer Atemwegsinfektione
 
 ### Administrative und organisatorische Angaben  
 
-Die zugrunde liegenden Daten werden im Rahmen einer wissenschaftlichen Kooperation vom Datenzentrum der HELIOS Kliniken GmbH dem Robert Koch-Institut (RKI) zur Verfügung gestellt. Die Konzeptionierung der Datennutzung, das Datenmanagement, die Validierung und Analyse der Daten im Rahmen der SARI-Surveillance sowie die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG36/fg36-respiratorisch-uebertragbare-erkrankungen-node.html) des RKI.  
+Die zugrunde liegenden Daten werden im Rahmen einer wissenschaftlichen Kooperation vom Datenzentrum der HELIOS Kliniken GmbH dem Robert Koch-Institut (RKI) zur Verfügung gestellt. Die Konzeptionierung der Datennutzung, das Datenmanagement, die Validierung und Analyse der Daten im Rahmen der SARI-Surveillance sowie die fachliche Bewertung der Ergebnisse erfolgen im [Fachgebiet 36 | Respiratorisch übertragbare Erkrankungen](https://www.rki.de/fg36) des RKI.  
 
-Die Veröffentlichung Analyseergebnisee, die Kuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Meta-Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).
+Die Veröffentlichung Analyseergebnisee, die Kuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgt durch das Fachgebiet [MF 4 | Fach- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Meta-Datenmanagement können an das Open Data-Team des Fachgebiets MF4 gerichtet werden [OpenData@rki.de](mailto:OpenData@rki.de).
 
 ### Entstehungskontext  
 
@@ -99,12 +123,21 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 
 #### Variablen und Variablenausprägungen
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-SARI-Hospitalisierungsinzidenz", "lang": "de"} -->
 
-| Variable | Typ | Ausprägung | Beschreibung |
-| --- | --- | --- | --- |
-|date|Datum|`jjjj-Www`| Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format|
-|agegroup| Text | `60-79`, `80+`,`00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an. |
-|sari_covid19_incidence|Rationale Zahl|`>0`|Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19|
+Die Datei [COVID-SARI-Hospitalisierungsinzidenz.tsv](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/COVID-SARI-Hospitalisierungsinzidenz.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-SARI-Hospitalisierungsinzidenz.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-SARI-Hospitalisierungsinzidenz.json) hinterlegt:
+> [tableschema_COVID-SARI-Hospitalisierungsinzidenz.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-SARI-Hospitalisierungsinzidenz.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
+| Variable               | Typ    | Ausprägungen                 | Beschreibung                                                                         |
+|:-----------------------|:-------|:-----------------------------|:-------------------------------------------------------------------------------------|
+| date                   | date   | Format: `YYYY-Www`           | Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format                          |
+| agegroup               | string | Werte: `60-79`, `80+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an.   |
+| sari_covid19_incidence | number | Werte: `≥0`                  | Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19 |
+
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 #### Formatierung  
 
@@ -142,19 +175,6 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
 ```    
 
 
-Zusätzlich beschreiben wir tabellarische Daten mithilfe des [Data Package Standards](https://datapackage.org/).
-Ein Data Package ist eine strukturierte Sammlung von Daten und zugehörigen Metadaten, die den Austausch und die Wiederverwendung von Daten erleichtert. Es besteht aus einer datapackage.json-Datei, die zentrale Informationen wie die enthaltenen Ressourcen, ihre Formate und Schema-Definitionen beschreibt.
-
-Der Data Package Standard wird von der [Open Knowledge Foundation](https://okfn.org/) bereitgestellt und ist ein offenes Format, das eine einfache, maschinenlesbare Beschreibung von Datensätzen ermöglicht.
-
-Die Liste der in diesem Repository enthaltenen Daten ist in folgender Datei hinterlegt:
-
-> [datapackage.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/tree/main/datapackage.json)
-
-Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://datapackage.org/standard/table-schema/), das die Struktur der Tabellen beschreibt, einschließlich Spaltennamen, Datentypen und Validierungsregeln. Diese Schema-Dateien finden sich unter:
-
-> [Metadaten/schemas/](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/tree/main/Metadaten/schemas) 
-
 
 
 ## Hinweise zur Nachnutzung der Daten  
@@ -168,7 +188,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
  
 ### Lizenz  
 
-Der Datensatz "COVID-SARI-Hospitalisierungsinzidenz" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "COVID-SARI-Hospitalisierungsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
