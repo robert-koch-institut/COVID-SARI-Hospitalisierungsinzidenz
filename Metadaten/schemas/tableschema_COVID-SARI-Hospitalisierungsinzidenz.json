@@ -1,0 +1,30 @@
+{
+  "fields": [
+    {
+      "name": "date",
+      "type": "date",
+      "description": "Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format",
+      "format": "%Y-W%W"
+    },
+    {
+      "name": "agegroup",
+      "type": "string",
+      "description": "Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an.",
+      "constraints": {
+        "enum": [
+          "60-79",
+          "80+",
+          "00+"
+        ]
+      }
+    },
+    {
+      "name": "sari_covid19_incidence",
+      "type": "number",
+      "description": "Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19",
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}

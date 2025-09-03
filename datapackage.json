@@ -1,0 +1,17 @@
+{
+  "name": "10.5281/zenodo.7804974",
+  "title": "COVID-SARI-Hospitalisierungsinzidenz",
+  "description": "Zur Einschätzung der Krankheitslast schwerer symptomatischer Atemwegsinfektionen im stationären Bereich wird mithilfe von Daten aus der syndromischen Krankenhaussurveillance ICOSARI die Inzidenz der Fälle, die mit einer schweren akuten respiratorischen Infektion (SARI) und einer COVID-19-Diagnose  in ein  Krankenhaus zur Behandlung aufgenommen wurden, pro 100.000 Einwohner berechnet. Zeitnahe und valide Daten über die Häufigkeit von SARI mit COVID-19 sind essenziell für die Einschätzung der epidemiologischen Lage und die Anpassung der Maßnahmen während der COVID-19-Pandemie.",
+  "homepage": "10.5281/zenodo.7804974",
+  "resources": [
+    {
+      "name": "covid-sari-Hospitalisierungsinzidenz",
+      "type": "table",
+      "path": "COVID-SARI-Hospitalisierungsinzidenz.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_COVID-SARI-Hospitalisierungsinzidenz.json"
+    }
+  ]
+}
