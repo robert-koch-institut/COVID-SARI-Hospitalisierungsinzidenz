@@ -138,9 +138,9 @@ Die Datei [COVID-SARI-Hospitalisierungsinzidenz.tsv](https://github.com/robert-k
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable               | Typ    | Ausprägungen                    | Beschreibung                                                                         |
 |:-----------------------|:-------|:--------------------------------|:-------------------------------------------------------------------------------------|
-| date                   | date   | Format: `YYYY-Www`              | Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format                          |
+| date                   | date   | Format:<br>`YYYY-Www`           | Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format                          |
 | agegroup               | string | Werte:<br>`60-79`, `80+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an.   |
-| sari_covid19_incidence | number | Werte: `≥0`                     | Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19 |
+| sari_covid19_incidence | number | Werte:<br>`≥0`                  | Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19 |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
