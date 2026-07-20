@@ -3,14 +3,16 @@
 >
 >Am 10.10.2024 gab es eine Umstellung im Datensatz der SARI-Hospitalisierungsinzidenz, der erweitert und zukünftig zusätzlich die SARI-Hospitalisierungsinzidenzen für COVID-19, Influenza und RSV Erkrankungen enthalten wird. 
 >Mit der Umstellung wird der Datensatz zur COVID-SARI-Hospitalisierungsinzidenz nicht weiter fortgeführt, da seine Daten vollständig in den Daten der SARI-Hospitalisierungsinzidenz enthalten sein werden:
-> - https://doi.org/10.5281/zenodo.13943918
-> - https://github.com/robert-koch-institut/SARI-Hospitalisierungsinzidenz/
----------
+>
+> - [https://doi.org/10.5281/zenodo.13943918](https://doi.org/10.5281/zenodo.13943918)
+> - [https://github.com/robert-koch-institut/SARI-Hospitalisierungsinzidenz/](https://github.com/robert-koch-institut/SARI-Hospitalisierungsinzidenz/)
+
 
 <!-- HEADER_START: {"lang": "de"} -->
 
 
 Dokumentation  
+
 # COVID-SARI-Hospitalisierungsinzidenz
 
 <br> 
@@ -28,21 +30,24 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Tolksdorf, K., Goerlitz, L., Gvaladze, T., Haas, W., & Buda, S. (2024). COVID-SARI-Hospitalisierungsinzidenz [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.13943810](https://doi.org/10.5281/zenodo.13943810)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
-Im Datensatz "COVID-SARI-Hospitalisierungsinzidenz" des Robert Koch-Instituts werden die wöchentlichen Inzidenzen schwerer akuter respiratorischer Infektionen (SARI) mit zusätzlicher COVID-19-Diagnose bei Krankenhausaufnahmen auf Bundesebene in Deutschland bereitgestellt. Die Daten stammen aus der syndromischen Krankenhaussurveillance ICOSARI, die sich auf ICD-10-basierten Diagnosen aus etwa 70 Sentinelkliniken stützt. Der Datensatz umfasst Hospitalisierungsinzidenzen pro 100.000 Einwohner, aufgeschlüsselt nach Altersgruppen, Saison und Kalenderwoche. Seit dem 10.10.2024 sind die Daten der COVID-SARI-Hospitalisierungsinzidenz vollständig in den Daten der SARI-Hospitalisierungsinzidenz enthalten: https://doi.org/10.5281/zenodo.8382330
+Im Datensatz "COVID-SARI-Hospitalisierungsinzidenz" des Robert Koch-Instituts werden die wöchentlichen Inzidenzen schwerer akuter respiratorischer Infektionen (SARI) mit zusätzlicher COVID-19-Diagnose bei Krankenhausaufnahmen auf Bundesebene in Deutschland bereitgestellt. Die Daten stammen aus der syndromischen Krankenhaussurveillance ICOSARI, die sich auf ICD-10-basierten Diagnosen aus etwa 70 Sentinelkliniken stützt. Der Datensatz umfasst Hospitalisierungsinzidenzen pro 100.000 Einwohner, aufgeschlüsselt nach Altersgruppen, Saison und Kalenderwoche. Seit dem 10.10.2024 sind die Daten der COVID-SARI-Hospitalisierungsinzidenz vollständig in den Daten der SARI-Hospitalisierungsinzidenz enthalten: [https://doi.org/10.5281/zenodo.8382330](https://doi.org/10.5281/zenodo.8382330)
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -92,7 +97,7 @@ Die Berechnung der wöchentlichen SARI-Hospitalisierungsinzidenz erfolgte wie vo
 
 > Tolksdorf K, Buda S, Schuler E, Wieler LH, Haas W (2020): Eine höhere Letalität und lange Beatmungsdauer unterscheiden COVID-19 von schwer verlaufenden Atemwegsinfektionen in Grippewellen. Epid Bull 2020;41:3–10 | doi: [10.25646/7111](http://dx.doi.org/10.25646/7111)
 
-> Goerlitz L, Tolksdorf K, Buchholz U, Prahm K, Preuß U, An der Heiden M, Wolff T, Dürrwald R, Nitsche A, Michel J, Haas W, Buda S. Überwachung von COVID-19 durch Erweiterung der etablierten Surveillance für Atemwegsinfektionen [Monitoring of COVID-19 by extending existing surveillance for acute respiratory infections]. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2021 Apr;64(4):395-402. German. doi: [10.1007/2Fs00103-021-03303-2](https://doi.org/10.1007/2Fs00103-021-03303-2).
+> Goerlitz L, Tolksdorf K, Buchholz U, Prahm K, Preuß U, An der Heiden M, Wolff T, Dürrwald R, Nitsche A, Michel J, Haas W, Buda S. Überwachung von COVID-19 durch Erweiterung der etablierten Surveillance für Atemwegsinfektionen [Monitoring of COVID-19 by extending existing surveillance for acute respiratory infections]. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. 2021 Apr;64(4):395-402. German. doi: [10.1007/2Fs00103-021-03303-2](https://doi.org/10.1007/s00103-021-03303-2).
 
 > Buda, S., Tolksdorf, K., Schuler, E., Kuhlen, R., Haas, W. (2017): Establishing an ICD-10 code based SARI-surveillance in Germany – description of the system and first results from five recent influenza seasons. *BMC Public Health* 17**, 612 (2017). doi: [10.1186/s12889-017-4515-1](https://doi.org/10.1186/s12889-017-4515-1) 
 
@@ -115,7 +120,8 @@ Der Datensatz enthält die wöchentlichen Werte der COVID-SARI-Hospitalisierungs
 
 Die Daten der Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19 sind nach folgenden Merkmalen differenziert:
 
-- Kalderwoche
+- Kalenderwoche
+- Altersgruppe
 
 Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgewertet. Das bedeutet, dass alle bis dahin am RKI validierten Daten einfließen. Die Daten sind bundesweit wöchentlich verfügbar und können durch Nachmeldungen noch ergänzt werden. 
 
@@ -126,14 +132,15 @@ Die Daten werden dienstags im Rahmen der wöchentlichen Berichterstattung ausgew
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-SARI-Hospitalisierungsinzidenz", "lang": "de"} -->
 
 Die Datei [COVID-SARI-Hospitalisierungsinzidenz.tsv](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/COVID-SARI-Hospitalisierungsinzidenz.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-SARI-Hospitalisierungsinzidenz.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-SARI-Hospitalisierungsinzidenz.json) hinterlegt:
+
 > [tableschema_COVID-SARI-Hospitalisierungsinzidenz.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/schemas/tableschema_COVID-SARI-Hospitalisierungsinzidenz.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable               | Typ    | Ausprägungen                 | Beschreibung                                                                         |
-|:-----------------------|:-------|:-----------------------------|:-------------------------------------------------------------------------------------|
-| date                   | date   | Format: `YYYY-Www`           | Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format                          |
-| agegroup               | string | Werte: `60-79`, `80+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an.   |
-| sari_covid19_incidence | number | Werte: `≥0`                  | Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19 |
+| Variable               | Typ    | Ausprägungen                    | Beschreibung                                                                         |
+|:-----------------------|:-------|:--------------------------------|:-------------------------------------------------------------------------------------|
+| date                   | date   | Format:<br>`YYYY-Www`           | Kalenderwoche der Krankenhausneuaufnahme im ISO-8601 Format                          |
+| agegroup               | string | Werte:<br>`60-79`, `80+`, `00+` | Altersgruppen in Jahren, `00+` gibt die Gesamtinzidenz über alle Altersgruppen an.   |
+| sari_covid19_incidence | number | Werte:<br>`≥0`                  | Hospitalisierungsinzidenz schwerer akuter respiratorischer Erkrankungen mit COVID-19 |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -141,15 +148,13 @@ Die Datei [COVID-SARI-Hospitalisierungsinzidenz.tsv](https://github.com/robert-k
 
 #### Formatierung  
 
-Die Daten sind im Datensatz als tabseparierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab "\t".  
+Die Daten sind im Datensatz als Tab-separierte Datei (TSV) enthalten. Der verwendete Zeichensatz der TSV-Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Tab `\t`.  
 
 - Zeichensatz: UTF-8  
-- TSV-Trennzeichen: Tab "\t"  
+- TSV-Trennzeichen: Tab `\t`  
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -157,7 +162,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/COVID-SARI-Hospitalisierungsinzidenz/blob/main/Metadaten/zenodo.json)  
 
@@ -168,8 +173,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -194,11 +199,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
- 
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
+
+
+
 ### Lizenz  
 
 Der Datensatz "COVID-SARI-Hospitalisierungsinzidenz" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
